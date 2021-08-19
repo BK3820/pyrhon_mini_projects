@@ -6,6 +6,7 @@ print("Hello {}\n! Best of Luck!".format(name))
 time.sleep(1)
 print("The game is about to start!\n Let's play Hangman!")
 time.sleep(3)
+
 def main():
     global count
     global display
