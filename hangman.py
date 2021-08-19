@@ -1,6 +1,5 @@
 import random
 import time
-
 print("\nWelcome to Hangman game \n")
 name = input("Enter your name: ")
 print("Hello {}\n! Best of Luck!".format(name))
